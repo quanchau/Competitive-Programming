@@ -1,4 +1,4 @@
-#String
+# Strings
 
 Super Reduced String
 
