@@ -1,6 +1,6 @@
 # Implementation
 
-Implementation:
+
 Grading Students
 Apple and Orange
 Kangaroo
